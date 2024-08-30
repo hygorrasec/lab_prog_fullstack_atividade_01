@@ -1,9 +1,9 @@
 # Atividade 01 - Laboratório de Programação Full Stack (Sistema de Cadastro, Login e Gerenciamento de Usuários)
-# Universidade de Vassouras - Engenharia de Software - Professor Fabrício Dias - 29/08/2024
+### Universidade de Vassouras - Engenharia de Software - Professor Fabrício Dias - 29/08/2024
 
-# Este projeto implementa um sistema completo de autenticação e gerenciamento de usuários utilizando Node.js, Express, Sequelize, PostgreSQL e JSON Web Token (JWT).
+### Este projeto implementa um sistema completo de autenticação e gerenciamento de usuários utilizando Node.js, Express, Sequelize, PostgreSQL e JSON Web Token (JWT).
 
-# COMANDOS PARA CONFIGURAÇÃO USANDO POSTGRESQL
+### COMANDOS PARA CONFIGURAÇÃO USANDO POSTGRESQL
 
  - ```npm init -y```
  - ```package.json```
