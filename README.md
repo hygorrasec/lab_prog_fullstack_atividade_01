@@ -7,10 +7,10 @@
 
  - ```npm init -y```
  - ```package.json```
-```"scripts": {
+"scripts": {
 "start": "node index.js",
 "dev": "nodemon index.js"
-},```
+}
  - ```npm install express sequelize pg pg-hstore jsonwebtoken bcryptjs dotenv```
  - ```npm install --save-dev nodemon```
  - ```npm install -g sequelize-cli```
@@ -18,7 +18,7 @@
  - ```npx sequelize-cli init```
 
  - Configure o arquivo para usar o PostgreSQL: ```config/config.json```
-```{
+{
   "development": {
     "username": "postgres",
     "password": "123",
@@ -40,7 +40,7 @@
     "host": "127.0.0.1",
     "dialect": "postgres"
   }
-}```
+}
 
  - Conentando no Postgres: ```psql -U postgres -h localhost```
  - Criando banco de dados: ```CREATE DATABASE lab_prog_fullstack_atividade_01;```
